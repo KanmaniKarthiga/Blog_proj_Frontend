@@ -4,6 +4,7 @@ import { NavLink } from "react-router-dom";
 
 
 function Bollywood() {
+    
     const [BData] = useContext(Store)
     const [TopData] = useContext(Store)
     const [SideData] = useContext(Store)
@@ -12,7 +13,7 @@ function Bollywood() {
         window.scrollTo({ top: 0, behavior: 'smooth' })
 
     }
-
+    
     return (
         
             <div className="component">

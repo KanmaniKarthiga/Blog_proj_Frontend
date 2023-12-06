@@ -287,7 +287,8 @@ hr{
 
 /* ########################### */
 #footer{
-  background-image: url("https://i0.wp.com/vincenttechblog.com/wp-content/uploads/2018/11/footer-background.jpg?ssl=1");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYsGLxYEjXhOECVr7IRuxPQZhpSyWIOnknw&usqp=CAU");
+  /* background-color: gray; */
   display: flex;
   justify-content: space-around;
   padding-top: 30px;
